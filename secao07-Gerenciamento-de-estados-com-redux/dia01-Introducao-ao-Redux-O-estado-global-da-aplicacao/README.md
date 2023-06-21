@@ -19,7 +19,13 @@
 -   <p><a href="#5">5.</a> Exercícios
 
 # 
-##### Antes de começar: 
-```
-Neste diretório será possivel analisar meu desempenho enquanto aprendiz do assunto acima citado. 
-```
+##### <strong>Antes de começar: </strong>
+
+##### <i>Neste diretório será possivel analisar meu desempenho enquanto aprendiz do assunto citado acima. Após esse dia educacional, sou capaz de:</i>
+<br>
+
+- Criar uma store para armazenar o estado de uma aplicação;
+
+- Utilizar Reducers, Actions, e a função dispatch() para atualizar a store;
+
+- Utilizar a função getState() para ler dados da store.
