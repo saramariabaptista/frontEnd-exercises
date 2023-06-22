@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "validador de campos exercicio dia 01 secao 01 frontend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "lint": "eslin ./src",
+    "build": "vite build"
+  },
+  "author": "beddie",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "eslint": "^8.43.0",
+    "validator": "^13.9.0",
+    "vite": "^4.3.9"
+  }
+}
