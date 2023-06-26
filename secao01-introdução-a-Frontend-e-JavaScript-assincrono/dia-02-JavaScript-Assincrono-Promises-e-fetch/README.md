@@ -17,7 +17,12 @@ Dia 02 - JavaScript Assíncrono - Promisses e fetch
 
 # Exercícios
 
-<h2> Microblogs</h2>
+- Microblogs</h2>
 
 Neste exercício vamos criar uma página para leitura de posts de várias pessoas.
 
+- API de Super Heróis</h2>
+
+Uma aplicação que busca a imagem e o nome de uma super heroína ou um super herói. Para isso, sera utilizado a `SuperHero API`. A aplicação deve contar também com um alerta, para o caso da API retornar algum erro. Usando a biblioteca `SweetAlert2` 
+
+A API de super Heroi está disponivel [aqui](https://superherorender.surge.sh).
