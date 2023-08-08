@@ -16,9 +16,9 @@ Exercícios de FrontEnd
 # :rocket: Meus conhecimentos
 ##### Seção 1: Introdução ao FrontEnd e JavaScript assíncrono.
 
-- [ ] 01: _Ambiente de desenvolvimento_
-- [ ] 02: _JavaScript Assíncrono - Promises e fetch_
-- [ ] 03: _Prática - Casa de Cambio_
+- [x] 01: _Ambiente de desenvolvimento_
+- [x] 02: _JavaScript Assíncrono - Promises e fetch_
+- [x] 03: _Prática - Casa de Cambio_
 - [ ] 04: _Async, await e testes assíncronos_
 - [ ] 05: _Projeto - iChoveu_
 

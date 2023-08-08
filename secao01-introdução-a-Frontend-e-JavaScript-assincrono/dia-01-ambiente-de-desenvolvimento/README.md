@@ -25,8 +25,17 @@ Ambiente de desenvolvimento
 - Utilizar CSS no  projeto.
 
 
-# Exercicio
+# Exercicios
 
 ### 
 ```
 Para demonstrar os conceitos do dia de hoje, foi criado uma aplicação que é um Gerador de Senhas Aleatórias. A ideia da aplicação é que, a cada vez que o botão é clicado, ela recomenda uma senha forte. Essa senha é gerada por uma biblioteca externa chamada nanoid.
+```
+
+Para visualizar a aplicação clique [aqui](https://passwordgeneratorbeddie.surge.sh).
+
+```
+Foi criado também um validador de campos com a biblioteca 'validator.js'. Onde é possivel verificar se o campo escolhido esta de acordo com o seu padrão. Ao clicar no botão, ela retorna se o campo é valido ou não.
+```
+
+Para visualizar a aplicação clique [aqui](https://fieldsvalidatorbeddie.surge.sh).
